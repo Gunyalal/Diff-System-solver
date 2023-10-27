@@ -1,0 +1,17 @@
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.exe
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.deps.json
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.json
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.dev.json
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.dll
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.pdb
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\DiffurSys.dll
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\DiffurSys.pdb
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfoInputs.cache
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfo.cs
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csproj.CopyComplete
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.dll
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.pdb
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.genruntimeconfig.cache
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csproj.AssemblyReference.cache
+C:\Users\Captain G\source\repos\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,10 @@
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\bin\Debug\netstandard2.0\DiffurSys.deps.json
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\bin\Debug\netstandard2.0\DiffurSys.dll
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\bin\Debug\netstandard2.0\DiffurSys.pdb
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\obj\Debug\netstandard2.0\DiffurSys.AssemblyInfoInputs.cache
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\obj\Debug\netstandard2.0\DiffurSys.AssemblyInfo.cs
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\obj\Debug\netstandard2.0\DiffurSys.csproj.CoreCompileInputs.cache
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\obj\Debug\netstandard2.0\DiffurSys.dll
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\obj\Debug\netstandard2.0\DiffurSys.pdb
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\obj\Debug\netstandard2.0\DiffurSys.csproj.AssemblyReference.cache
+C:\Users\Captain G\source\repos\CourseWork\DiffurSys\obj\Debug\netstandard2.0\DiffurSys.GeneratedMSBuildEditorConfig.editorconfig

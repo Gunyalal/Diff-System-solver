@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "katK+q+jZpMreMUcUm32wIA+VaW7gQFVgYRgGD8CmwR8sU5RcSFdrPX6IwvKF51DlEv8eaU3+EW+MmZ8O2SjwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Captain G\\source\\repos\\CourseWork\\DiffurSys\\DiffurSys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Captain G\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Captain G\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
